@@ -1,0 +1,12 @@
+ <!DOCTYPE html> 
+<html> 
+<head> 
+    <title>Vimeo</title> 
+</head> 
+<body> 
+<script> 
+    window.location = "https://vimeo.com/imlach"; 
+</script> 
+<h1><a href="https://vimeo.com/imlach">https://vimeo.com/imlach</a></h1>
+</body> 
+</html> 
