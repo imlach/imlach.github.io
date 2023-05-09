@@ -92,7 +92,7 @@ h1, h2, h3, h4, h5, h6, figure {
   right: 0;
   padding: 25px 0;
   z-index: 1;
-  background: #edebe8;
+  background: #FFF;
 }
 @media screen and (max-width: 768px) {
   .fh5co-nav {
@@ -105,13 +105,13 @@ h1, h2, h3, h4, h5, h6, figure {
   float: left;
 }
 .fh5co-nav .fh5co-top-logo {
-  width: 20%;
+  width: 74%;
 }
 .fh5co-nav .fh5co-top-menu {
-  width: 60%;
+  width: 1%;
 }
 .fh5co-nav .fh5co-top-social {
-  width: 20%;
+  width: 25%;
 }
 .fh5co-nav #fh5co-logo {
   font-size: 20px;
@@ -456,11 +456,11 @@ h1, h2, h3, h4, h5, h6, figure {
   margin-bottom: 40px;
 }
 .work .work-grid {
-  background-size: cover;
+  background-size: contain;
   background-position: center center;
   background-repeat: no-repeat;
   position: relative;
-  height: 300px;
+  height: 310px;
   margin-bottom: 20px;
   -webkit-transition: 0.3s;
   -o-transition: 0.3s;
@@ -468,7 +468,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 .work .work-grid .inner {
   display: table;
-  height: 300px;
+  height: 310px;
   width: 100.1%;
   opacity: 0;
   background: rgba(237, 235, 232, 0.9);
