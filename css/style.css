@@ -16,7 +16,7 @@ body {
   font-size: 16px;
   line-height: 1.7;
   color: #c5c5c5;
-  background: #111;
+  background: #000;
 }
 
 #page {
@@ -92,7 +92,7 @@ h1, h2, h3, h4, h5, h6, figure {
   right: 0;
   padding: 25px 0;
   z-index: 1;
-  background: #111;
+  background: #000;
 }
 @media screen and (max-width: 768px) {
   .fh5co-nav {
@@ -223,7 +223,7 @@ h1, h2, h3, h4, h5, h6, figure {
   top: 40px;
   left: 0;
   text-align: left;
-  background: #111;
+  background: #000;
   padding: 20px;
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
@@ -242,7 +242,7 @@ h1, h2, h3, h4, h5, h6, figure {
   width: 0;
   position: absolute;
   pointer-events: none;
-  border-bottom-color: #111;
+  border-bottom-color: #000;
   border-width: 8px;
   margin-left: -8px;
 }
@@ -697,7 +697,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 #fh5co-footer {
-  background: #111;
+  background: #000;
 }
 #fh5co-footer .fh5co-footer-links {
   padding: 0;
@@ -973,10 +973,10 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 .fh5co-nav-toggle.fh5co-nav-white > i {
   color: #fff;
-  background: #111;
+  background: #000;
 }
 .fh5co-nav-toggle.fh5co-nav-white > i::before, .fh5co-nav-toggle.fh5co-nav-white > i::after {
-  background: #111;
+  background: #000;
 }
 
 .fh5co-nav-toggle i::before {
